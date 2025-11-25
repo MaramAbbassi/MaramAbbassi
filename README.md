@@ -117,7 +117,7 @@ Dashboard temps réel.
 <div align="center">
   <img src="Assets/categories.png" width="730px"/>
   <br>
-  <em>Visualisation des prédictions de notre modèle de classification du trafic réseau, montrant le volume (nombre de paquets en milliers) pour chaque catégorie de trafic identifiée.</em>
+  <em>Visualisation des prédictions de mon modèle de classification du trafic réseau, montrant le volume (nombre de paquets en milliers) pour chaque catégorie de trafic identifiée.</em>
 </div>
 <br>
 <div align="center">
