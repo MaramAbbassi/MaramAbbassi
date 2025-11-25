@@ -23,11 +23,8 @@ L’objectif était de concevoir une expérience jouable de bout en bout, avec d
 🔍 **Fonctionnalités principales**
 
 IA ennemie : Patrouille dynamique | Détection du joueur (raycasts, FOV) | Système de boss avec comportements multiples.
-
 Gameplay : Système de projectiles | Gestion de la santé | Résolution de puzzles interactifs | Objets utilisables contextuellement.
-
 Graphisme : Shaders personnalisés (effets lumières, matériaux animés) | Interfaces UI adaptatives.
-
 Architecture : Scriptable Objects | Événements | Gestion d’état.
 
 🛠️ **Technologies**
@@ -62,11 +59,8 @@ L’application fonctionne en temps réel et affiche les prédictions avec visua
 🔍 **Composants principaux**
 
 Vision (Vidéo) : Détection de visage, extraction de features CNN.
-
 Audio : MFCC + classification LSTM.
-
 Texte : BERT / DistilBERT pour la prédiction d’émotions.
-
 Frontend Flask : Enregistrement vidéo/audio | Graphiques Altair en direct.
 
 🛠️ **Technologies**
@@ -89,9 +83,7 @@ Objectif : accélérer l'encodage/décodage à grande échelle via CUDA.
 🔍 **Avancées clés**
 
 Conversion CPU → CUDA avec parallélisation par octet.
-
 Optimisations : Unrolling | Mémoire partagée | Pinned memory | Streams CUDA.
-
 Analyse de performance : Speedup ×10 à ×20 selon les tailles d’images.
 
 🛠️ **Technologies**
@@ -114,9 +106,7 @@ Développement d’un système complet de capture, traitement et classification 
 🔍 **Points clés**
 
 Pipeline DPDK → Kafka → NFStream.
-
 Modèle ML pour la classification de flows.
-
 Dashboard temps réel.
 
 
