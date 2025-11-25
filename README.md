@@ -47,8 +47,10 @@ Ce projet m’a permis d’approfondir ma compréhension des transformations gé
 C++ • OpenGL • GLFW • GLM • GLSL
 <br><br>
 
-![Nom](Assets/TP4.1.png)
-![Nom](Assets/TP5.2.png)
+<p align="center">
+  <img src="Assets/TP4.1.png" width="300" />
+  <img src="assets/TP5.2.png" width="300" />
+</p>
 
 # 😃 Reconnaissance Multimodale des Émotions (Vidéo + Audio + Texte)
 
