@@ -48,8 +48,8 @@ C++ • OpenGL • GLFW • GLM • GLSL
 <br><br>
 
 <p align="center">
-  <img src="Assets/TP4.1.png" width="500" />
-  <img src="Assets/TP5.2.png" width="500" />
+  <img src="Assets/TP4.1.png" width="300" />
+  <img src="Assets/TP5.2.png" width="300" />
 </p>
 
 # 😃 Reconnaissance Multimodale des Émotions (Vidéo + Audio + Texte)
