@@ -109,6 +109,8 @@ Modèle ML pour la classification de flows.
 
 Dashboard temps réel.
 
+![Nom](assets/categories.png)
+![Nom](assets/packets.png)
 
 
 ### ✍️ 
