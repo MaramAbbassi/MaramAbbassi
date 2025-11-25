@@ -47,6 +47,9 @@ Ce projet m’a permis d’approfondir ma compréhension des transformations gé
 C++ • OpenGL • GLFW • GLM • GLSL
 <br><br>
 
+![Nom](Assets/TP4.1.png)
+![Nom](assets/TP5.2.png.png)
+
 # 😃 Reconnaissance Multimodale des Émotions (Vidéo + Audio + Texte)
 
 **Deep Learning – CNN – LSTM – Flask – Altair – Temps réel**
