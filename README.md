@@ -98,7 +98,11 @@ Analyse de performance : Speedup ×10 à ×20 selon les tailles d’images.
 C++ • CUDA • Nvcc • Analyse de perf
 <br><br>
 
-![Nom](Assets/Steganographie.png)
+
+
+<p align="center">
+  <img src="Assets/Steganographie.png"  />
+</p>
 
 # 🛰️ 6. Classification du trafic réseau en temps réel
 
