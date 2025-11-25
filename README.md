@@ -76,9 +76,6 @@ Python • TensorFlow / PyTorch • OpenCV • Flask • Altair
 Projet d’optimisation GPU d’un système de stéganographie par LSB.
 Objectif : accélérer l'encodage/décodage à grande échelle via CUDA.
 
-![Nom](Assets/Steganographie.png)
-
-
 🔍 **Avancées clés**
 
 Conversion CPU → CUDA avec parallélisation par octet.
@@ -91,6 +88,8 @@ Analyse de performance : Speedup ×10 à ×20 selon les tailles d’images.
 
 C++ • CUDA • Nvcc • Analyse de perf
 <br><br>
+
+![Nom](Assets/Steganographie.png)
 
 # 🛰️ 6. Classification du trafic réseau en temps réel
 
