@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Je m’appelle Maram Abbassi, étudiante en Master 2 Informatique – Synthèse d’Images et Conception Graphique (ISICG) à la Faculté des Sciences et Techniques de Limoges.<br>Ce master forme aux domaines du graphisme temps réel, de la vision par ordinateur, des moteurs 3D, du traitement d’images, ainsi qu’aux techniques avancées de rendu et de modélisation.<br>👉 Plus d’informations sur la formation : [unilim.fr/isicg.](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/)<br><br>
+Je m’appelle Maram Abbassi, étudiante en Master 2 Informatique – Synthèse d’Images et Conception Graphique (ISICG) à la Faculté des Sciences et Techniques de Limoges.<br>Ce master forme aux domaines du graphisme temps réel, de la vision par ordinateur, des moteurs 3D, du traitement d’images, ainsi qu’aux techniques avancées de rendu et de modélisation. \
+ Je recherche **un stage de 4 à 6 mois** pour contribuer à des projets innovants mettant en
+ valeur mes compétences ainsi qu’approfondir mon expertise dans ces domaines.
+
+<br>👉 Plus d’informations sur la formation : [unilim.fr/isicg.](https://www.sciences.unilim.fr/informatique/master-informatique-isicg/)<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maram-abbassi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abbassimaram48@gmail.com) 
