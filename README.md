@@ -118,8 +118,15 @@ Modèle ML pour la classification de flows.
 
 Dashboard temps réel.
 
-![Nom](Assets/categories.png)
-![Nom](Assets/packets.png)
+
+
+<p align="center">
+  <img src="Assets/categories.png"  width="700" />
+</p>
+<p align="center">
+  <img src="Assets/packets"  width="700" />
+</p>
+
 
 
 ### ✍️ 
