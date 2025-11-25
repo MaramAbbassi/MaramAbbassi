@@ -32,7 +32,7 @@ Architecture : Scriptable Objects | Événements | Gestion d’état.\
 Unity • C# • Shaders HLSL • Animation • NavMesh
 <br><br>
 
-# 🧱 Moteur 3D en OpenGL
+## 🧱 Moteur 3D en OpenGL
 
 **C++ – GLSL – Pipeline Graphique – Lancer de Rayon – Phong – Lambert – Rasterization – Surfaces implicites**
 
@@ -49,7 +49,7 @@ C++ • OpenGL • GLFW • GLM • GLSL
   <img src="Assets/TP5.2.png" width="400" />
 </p>
 
-# 😃 Reconnaissance Multimodale des Émotions (Vidéo + Audio + Texte)
+## 😃 Reconnaissance Multimodale des Émotions (Vidéo + Audio + Texte)
 
 **Deep Learning – CNN – LSTM – Flask – Altair – Temps réel**
 
@@ -73,7 +73,7 @@ Python • TensorFlow / PyTorch • OpenCV • Flask • Altair
   <img src="Assets/emotions.png" width="730" />
 </p>
 
-# 🔐 4. Stéganographie d’Images accélérée GPU (CPU → CUDA)
+## 🔐 4. Stéganographie d’Images accélérée GPU (CPU → CUDA)
 
 **CUDA – Optimisation – Parallélisme – Traitement d’images**
 
@@ -97,7 +97,7 @@ C++ • CUDA • Nvcc • Analyse de perf
   <img src="Assets/Steganographie.png"  />
 </p>
 
-# 🛰️ 6. Classification du trafic réseau en temps réel
+## 🛰️ 6. Classification du trafic réseau en temps réel
 
 **IA – DPDK – Kafka – NFStream – Monitoring**
 
