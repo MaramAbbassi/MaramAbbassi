@@ -73,7 +73,7 @@ Python • TensorFlow / PyTorch • OpenCV • Flask • Altair
   <img src="Assets/emotions.png" width="730" />
 </p>
 
-## 🔐 4. Stéganographie d’Images accélérée GPU (CPU → CUDA)
+## 🔐 Stéganographie d’Images accélérée GPU (CPU → CUDA)
 
 **CUDA – Optimisation – Parallélisme – Traitement d’images**
 
@@ -97,7 +97,7 @@ C++ • CUDA • Nvcc • Analyse de perf
   <img src="Assets/Steganographie.png"  />
 </p>
 
-## 🛰️ 6. Classification du trafic réseau en temps réel
+## 🛰️ Classification du trafic réseau en temps réel
 
 **IA – DPDK – Kafka – NFStream – Monitoring**
 
