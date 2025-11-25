@@ -121,10 +121,10 @@ Dashboard temps réel.
 
 
 <p align="center">
-  <img src="Assets/categories.png"  width="700" />
+  <img src="Assets/categories.png"  width="750" />
 </p>
 <p align="center">
-  <img src="Assets/packets.png"  width="700" />
+  <img src="Assets/packets.png"  width="750" />
 </p>
 
 
