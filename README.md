@@ -74,9 +74,10 @@ Frontend Flask : Enregistrement vidéo/audio | Graphiques Altair en direct.
 Python • TensorFlow / PyTorch • OpenCV • Flask • Altair
 <br><br>
 
-![Nom](Assets/index.png)
-![Nom](Assets/emotions.png)
-
+<p align="center">
+  <img src="Assets/emoAI.png" width="730" />
+  <img src="Assets/emotions.png" width="730" />
+</p>
 
 # 🔐 4. Stéganographie d’Images accélérée GPU (CPU → CUDA)
 
@@ -121,10 +122,10 @@ Dashboard temps réel.
 
 
 <p align="center">
-  <img src="Assets/categories.png"  width="750" />
+  <img src="Assets/categories.png"  width="730" />
 </p>
 <p align="center">
-  <img src="Assets/packets.png"  width="750" />
+  <img src="Assets/packets.png"  width="730" />
 </p>
 
 
