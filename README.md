@@ -112,21 +112,17 @@ Pipeline DPDK → Kafka → NFStream.\
 Modèle ML pour la classification de flows.\
 Dashboard temps réel.
 
-
-
-<p align="center">
-  <img src="Assets/categories.png"  width="730" />
-</p>
-<p align="center">
-  <img src="Assets/packets.png"  width="730" />
-</p>
-
 <div align="center">
   <img src="Assets/categories.png" width="730px"/>
   <br>
   <em>Visualisation des prédictions de notre modèle de classification du trafic réseau, montrant le volume (nombre de paquets en milliers) pour chaque catégorie de trafic identifiée.</em>
 </div>
 
+<div align="center">
+  <img src="Assets/packets.png" width="730px"/>
+  <br>
+  <em>Extrait du jeu de données illustrant les caractéristiques du trafic réseau et la catégorie correspondante.</em>
+</div>
 
 
 ### ✍️ 
