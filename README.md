@@ -58,9 +58,9 @@ L’application fonctionne en temps réel et affiche les prédictions avec visua
 
 🔍 **Composants principaux**
 
-Vision (Vidéo) : Détection de visage, extraction de features CNN.
-Audio : MFCC + classification LSTM.
-Texte : BERT / DistilBERT pour la prédiction d’émotions.
+Vision (Vidéo) : Détection de visage, extraction de features CNN. \
+Audio : MFCC + classification LSTM. \
+Texte : BERT / DistilBERT pour la prédiction d’émotions.\
 Frontend Flask : Enregistrement vidéo/audio | Graphiques Altair en direct.
 
 🛠️ **Technologies**
