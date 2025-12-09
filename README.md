@@ -39,7 +39,7 @@ Unity • C# • Shaders HLSL • Animation • NavMesh
 
 ## 🤖 DEFORM : Physics-Informed Neural Networks pour Simulation de Cordes
 
-** Deep Learning – GCN – Physics Simulation – PyTorch – Processing 3D **
+**Deep Learning – GCN – Physics Simulation – PyTorch – Processing 3D**
 
 Analyse et implémentation du papier [DEFORM](https://arxiv.org/pdf/2406.05931) : une approche hybride combinant simulation physique (Discrete Elastic Rods) et intelligence artificielle pour prédire le mouvement de cordes déformables.
 
@@ -75,7 +75,10 @@ Ce projet m’a permis d’approfondir ma compréhension des transformations gé
 
 C++ • OpenGL • GLFW • GLM • GLSL
 <br><br>
-
+<p align="center">
+  <img src="Assets/tp5.2.c.jpg" width="400" />
+  <img src="Assets/image.png" width="400" />
+</p>
 <p align="center">
   <img src="Assets/TP4.1.png" width="400" />
   <img src="Assets/TP5.2.png" width="400" />
