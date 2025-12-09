@@ -37,6 +37,33 @@ Architecture : Scriptable Objects | Événements | Gestion d’état.
 Unity • C# • Shaders HLSL • Animation • NavMesh
 <br><br>
 
+## 🤖 DEFORM : Physics-Informed Neural Networks pour Simulation de Cordes
+
+** Deep Learning – GCN – Physics Simulation – PyTorch – Processing 3D **
+
+Analyse et implémentation du papier DEFORM : une approche hybride combinant simulation physique (Discrete Elastic Rods) et intelligence artificielle pour prédire le mouvement de cordes déformables.
+
+📊 **Résultats**
+
+- Entraînement : 1,495 itérations, loss descendue de ~100 à ~40
+- Performance : 7.2mm erreur moyenne (sub-centimétrique)
+- Architecture : 13 vertices, 12 edges, 2 couches GCN
+- Temps d'entraînement : ~30 minutes avec GPU
+
+🛠️ **Technologies**
+
+PyTorch • Graph Convolutional Networks • Physics-Based Dynamics • CUDA • Processing • Python 3.11
+<br>
+
+🎥 [Vidéo explicative sur YouTube](https://drive.google.com/file/d/1BnUIVENjoy4dXIrQ22gHvPetxM7DFwY9/view?usp=drive_link) 
+- Explication détaillée de l'architecture et résultats.
+<div align="center">
+  <img src="Assets/animation.gif" width="730px"/>
+  <br>
+  <em>Démonstration de la prédiction du mouvement de cordes : Ground Truth (vert) vs DER physique pur (bleu) vs DEFORM IA+physique (orange), avec visualisation en temps réel des erreurs de prédiction.</em>
+</div>
+<br>
+
 ## 🧱 Moteur 3D en OpenGL
 
 **C++ – GLSL – Pipeline Graphique – Lancer de Rayon – Phong – Lambert – Rasterization – Surfaces implicites**
