@@ -77,7 +77,7 @@ C++ • OpenGL • GLFW • GLM • GLSL
 <br><br>
 <p align="center">
   <img src="Assets/tp5.2.c.jpg" width="400" />
-  <img src="Assets/image.png" width="400" />
+  <img src="Assets/image.jpg" width="400" />
 </p>
 <p align="center">
   <img src="Assets/TP4.1.png" width="400" />
