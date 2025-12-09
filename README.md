@@ -60,7 +60,7 @@ PyTorch • Graph Convolutional Networks • Physics-Based Dynamics • CUDA •
 <div align="center">
   <img src="Assets/animation.gif" width="730px"/>
   <br>
-  <em>Démonstration de la prédiction du mouvement de cordes : Ground Truth (vert) vs DER physique pur (bleu) vs DEFORM IA+physique (orange), avec visualisation en temps réel des erreurs de prédiction.</em>
+  <em>Démonstration de la prédiction du mouvement de cordes : Ground Truth (vert) vs DER physique pur (rouge) vs DEFORM IA+physique (bleu), avec visualisation en temps réel des erreurs de prédiction.</em>
 </div>
 <br>
 
