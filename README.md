@@ -41,7 +41,7 @@ Unity • C# • Shaders HLSL • Animation • NavMesh
 
 ** Deep Learning – GCN – Physics Simulation – PyTorch – Processing 3D **
 
-Analyse et implémentation du papier DEFORM : une approche hybride combinant simulation physique (Discrete Elastic Rods) et intelligence artificielle pour prédire le mouvement de cordes déformables.
+Analyse et implémentation du papier [DEFORM](https://arxiv.org/pdf/2406.05931) : une approche hybride combinant simulation physique (Discrete Elastic Rods) et intelligence artificielle pour prédire le mouvement de cordes déformables.
 
 📊 **Résultats**
 
@@ -55,7 +55,7 @@ Analyse et implémentation du papier DEFORM : une approche hybride combinant sim
 PyTorch • Graph Convolutional Networks • Physics-Based Dynamics • CUDA • Processing • Python 3.11
 <br>
 
-🎥 [Vidéo explicative sur YouTube](https://drive.google.com/file/d/1BnUIVENjoy4dXIrQ22gHvPetxM7DFwY9/view?usp=drive_link) 
+🎥 [Vidéo explicative que j'ai fait](https://drive.google.com/file/d/1BnUIVENjoy4dXIrQ22gHvPetxM7DFwY9/view?usp=drive_link) 
 - Explication détaillée de l'architecture et résultats.
 <div align="center">
   <img src="Assets/animation.gif" width="730px"/>
